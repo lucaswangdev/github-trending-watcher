@@ -1,0 +1,202 @@
+[
+    {
+        "name": "pytorch-labs /gpt-fast",
+        "url": "https://github.com/pytorch-labs/gpt-fast",
+        "stars": "2358",
+        "language": "Python",
+        "forks": "162",
+        "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python."
+    },
+    {
+        "name": "LC044 /WeChatMsg",
+        "url": "https://github.com/LC044/WeChatMsg",
+        "stars": "2949",
+        "language": "Python",
+        "forks": "295",
+        "description": "\u63d0\u53d6\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\uff0c\u5c06\u5176\u5bfc\u51fa\u6210HTML\u3001Word\u3001CSV\u6587\u6863\u6c38\u4e45\u4fdd\u5b58\uff0c\u5bf9\u804a\u5929\u8bb0\u5f55\u8fdb\u884c\u5206\u6790\u751f\u6210\u5e74\u5ea6\u804a\u5929\u62a5\u544a"
+    },
+    {
+        "name": "dangeng /visual_anagrams",
+        "url": "https://github.com/dangeng/visual_anagrams",
+        "stars": "471",
+        "language": "Python",
+        "forks": "45",
+        "description": "Code for the paper \"Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models\""
+    },
+    {
+        "name": "microsoft /TaskWeaver",
+        "url": "https://github.com/microsoft/TaskWeaver",
+        "stars": "455",
+        "language": "Python",
+        "forks": "85",
+        "description": "A code-first agent framework for seamlessly planning and executing data analytics tasks."
+    },
+    {
+        "name": "Mozilla-Ocho /llamafile",
+        "url": "https://github.com/Mozilla-Ocho/llamafile",
+        "stars": "3666",
+        "language": "C++",
+        "forks": "122",
+        "description": "Distribute and run LLMs with a single file."
+    },
+    {
+        "name": "google-deepmind /materials_discovery",
+        "url": "https://github.com/google-deepmind/materials_discovery",
+        "stars": "407",
+        "language": "Python",
+        "forks": "64",
+        "description": "No description"
+    },
+    {
+        "name": "OthersideAI /self-operating-computer",
+        "url": "https://github.com/OthersideAI/self-operating-computer",
+        "stars": "4202",
+        "language": "Python",
+        "forks": "630",
+        "description": "A framework to enable multimodal models to operate a computer."
+    },
+    {
+        "name": "StanGirard /quivr",
+        "url": "https://github.com/StanGirard/quivr",
+        "stars": "25572",
+        "language": "TypeScript",
+        "forks": "2876",
+        "description": "Your GenAI Second Brain \ud83e\udde0 A personal productivity assistant \u26a1\ufe0f\ud83e\udd16 Chat with your files (PDF, CSV, ...) & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT"
+    },
+    {
+        "name": "HumanAIGC /AnimateAnyone",
+        "url": "https://github.com/HumanAIGC/AnimateAnyone",
+        "stars": "2975",
+        "language": "Unknown",
+        "forks": "121",
+        "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation"
+    },
+    {
+        "name": "facebookresearch /seamless_communication",
+        "url": "https://github.com/facebookresearch/seamless_communication",
+        "stars": "6955",
+        "language": "C",
+        "forks": "592",
+        "description": "Foundational Models for State-of-the-Art Speech and Text Translation"
+    },
+    {
+        "name": "kotlin-hands-on /advent-of-code-kotlin-template",
+        "url": "https://github.com/kotlin-hands-on/advent-of-code-kotlin-template",
+        "stars": "457",
+        "language": "Kotlin",
+        "forks": "96",
+        "description": "The Advent of Code template project for Kotlin"
+    },
+    {
+        "name": "QwenLM /Qwen",
+        "url": "https://github.com/QwenLM/Qwen",
+        "stars": "6782",
+        "language": "Python",
+        "forks": "550",
+        "description": "The official repo of Qwen (\u901a\u4e49\u5343\u95ee) chat & pretrained large language model proposed by Alibaba Cloud."
+    },
+    {
+        "name": "ascoders /weekly",
+        "url": "https://github.com/ascoders/weekly",
+        "stars": "26099",
+        "language": "JavaScript",
+        "forks": "3059",
+        "description": "\u524d\u7aef\u7cbe\u8bfb\u5468\u520a\u3002\u5e2e\u4f60\u7406\u89e3\u6700\u524d\u6cbf\u3001\u5b9e\u7528\u7684\u6280\u672f\u3002"
+    },
+    {
+        "name": "comfyanonymous /ComfyUI",
+        "url": "https://github.com/comfyanonymous/ComfyUI",
+        "stars": "17397",
+        "language": "Python",
+        "forks": "1723",
+        "description": "The most powerful and modular stable diffusion GUI with a graph/nodes interface."
+    },
+    {
+        "name": "Avaiga /taipy",
+        "url": "https://github.com/Avaiga/taipy",
+        "stars": "1702",
+        "language": "Python",
+        "forks": "114",
+        "description": "Turns Data and AI algorithms into production-ready web applications in no time."
+    },
+    {
+        "name": "DopplerHQ /awesome-interview-questions",
+        "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+        "stars": "59823",
+        "language": "Unknown",
+        "forks": "7873",
+        "description": "A curated awesome list of lists of interview questions. Feel free to contribute! \ud83c\udf93"
+    },
+    {
+        "name": "practical-tutorials /project-based-learning",
+        "url": "https://github.com/practical-tutorials/project-based-learning",
+        "stars": "124158",
+        "language": "Unknown",
+        "forks": "17109",
+        "description": "Curated list of project-based tutorials"
+    },
+    {
+        "name": "lllyasviel /Fooocus",
+        "url": "https://github.com/lllyasviel/Fooocus",
+        "stars": "21432",
+        "language": "Python",
+        "forks": "1867",
+        "description": "Focus on prompting and generating"
+    },
+    {
+        "name": "cloudcommunity /Free-Certifications",
+        "url": "https://github.com/cloudcommunity/Free-Certifications",
+        "stars": "13269",
+        "language": "Unknown",
+        "forks": "1049",
+        "description": "A curated list of free courses & certifications."
+    },
+    {
+        "name": "nlohmann /json",
+        "url": "https://github.com/nlohmann/json",
+        "stars": "38094",
+        "language": "C++",
+        "forks": "6545",
+        "description": "JSON for Modern C++"
+    },
+    {
+        "name": "google /comprehensive-rust",
+        "url": "https://github.com/google/comprehensive-rust",
+        "stars": "22772",
+        "language": "Rust",
+        "forks": "1335",
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust."
+    },
+    {
+        "name": "francozappa /bluffs",
+        "url": "https://github.com/francozappa/bluffs",
+        "stars": "312",
+        "language": "Python",
+        "forks": "59",
+        "description": "Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]"
+    },
+    {
+        "name": "ripienaar /free-for-dev",
+        "url": "https://github.com/ripienaar/free-for-dev",
+        "stars": "77186",
+        "language": "HTML",
+        "forks": "8393",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+    },
+    {
+        "name": "makeplane /plane",
+        "url": "https://github.com/makeplane/plane",
+        "stars": "19471",
+        "language": "TypeScript",
+        "forks": "987",
+        "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible."
+    },
+    {
+        "name": "Vaibhavs10 /insanely-fast-whisper",
+        "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+        "stars": "3560",
+        "language": "Jupyter Notebook",
+        "forks": "313",
+        "description": "No description"
+    }
+]
